@@ -1,4 +1,7 @@
-### Hi there 👋
-### Just a cs enthusiast navigating through the software universe. Self-taught full stack engineer, now casually wandering into the ML/AI territory. 
+### Hey I'm Ming 👋
+### Just a CS enthusiast navigating through the software universe. 
 
-working on a [course evaluation system](https://github.com/MingCWang/deis-course-evaluation)
+I'm currently working on [this](https://github.com/MingCWang/deis-course-evaluation)
+
+## 📦 Toolbox
+`React` `TypeScript` `Material-UI` `Express.js` `Pulumi` `AWS`
