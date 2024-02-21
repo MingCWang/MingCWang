@@ -4,4 +4,4 @@
 I'm currently working on [this](https://github.com/MingCWang/deis-course-evaluation)
 
 ## 📦 Toolbox
-`React` `TypeScript` `Material-UI` `Express` `Pulumi` `AWS`
+`MyBrain.JS` `Stack Overflow` `Macbook Air` `LLMs` 
